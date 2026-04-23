@@ -8,10 +8,11 @@ Currently working with **SAP integrations** while expanding my **Node.js backend
 
 ### ⚡What I'm Building
 
-• Production-ready **backend services** with Node.js and Express  
-• **Scalable REST APIs** designed with clean architecture principles  
-• **Enterprise integrations** connecting complex systems  
-• Continuously improving **backend architecture and system design**
+• Backend services using Node.js & Express (layered architecture)  
+• REST APIs with validation, error handling, and idempotent request handling  
+• Enterprise integrations (SAP CPI) with XML, JSON and EDI transformations  
+• Secure API integrations using OAuth2, Basic Auth, key-based and certificate based authentication  
+• Implementing caching and request deduplication using Redis
 
 ---
 
@@ -31,15 +32,18 @@ Currently working with **SAP integrations** while expanding my **Node.js backend
 ![Express](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![REST API](https://img.shields.io/badge/REST_API-%23000000.svg?style=for-the-badge)
 
-**Databases**
+**Databases & Caching**
 
 ![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![MongoDB Atlas](https://img.shields.io/badge/mongodb_atlas-%2300ED64.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 **Cloud & Integrations**
 
 ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_CPI-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+![SAP PI/PO](https://img.shields.io/badge/SAP_PI%2FPO-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+
 
 **Development Tools**
 
