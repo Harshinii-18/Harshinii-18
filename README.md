@@ -2,17 +2,18 @@
 **`Backend & Integration Developer`**
 
 I build backend systems and integrations that move data reliably between platforms.  
-Currently working with **SAP integrations** while expanding my **Node.js backend expertise**.
+Currently working with **SAP integrations** while deepening my expertise in Node.js backend engineering, concurrency handling and reliable API design.
 
 ---
 
 ### ⚡What I'm Building
 
-• Backend services using Node.js & Express (layered architecture)  
-• REST APIs with validation, error handling, and idempotent request handling  
-• Enterprise integrations (SAP CPI) with XML, JSON and EDI transformations  
-• Secure API integrations using OAuth2, Basic Auth, key-based and certificate based authentication  
-• Implementing caching and request deduplication using Redis
+- Backend services using Node.js & Express with layered architecture  
+- REST APIs with validation, centralised error handling, and idempotent request processing
+- Flash-sale reservation and order systems with concurrency-safe inventory handling
+- Redis-based caching and request deduplication strategies
+- Enterprise integrations (SAP CPI) with XML, JSON and EDI transformations  
+- Secure API integrations using OAuth2, Basic Auth, key-based and certificate based authentication  
 
 ---
 
@@ -40,9 +41,9 @@ Currently working with **SAP integrations** while expanding my **Node.js backend
 
 **Cloud & Integrations**
 
-![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP_CPI-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
 ![SAP PI/PO](https://img.shields.io/badge/SAP_PI%2FPO-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
+![Render](https://img.shields.io/badge/render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=black)
 
 
 **Development Tools**
