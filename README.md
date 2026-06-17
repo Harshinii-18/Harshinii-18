@@ -1,19 +1,21 @@
 # 👩‍💻 Harshinii S
 **`Backend & Integration Developer`**
 
-I build backend systems and integrations that move data reliably between platforms.  
-Currently working with **SAP integrations** while deepening my expertise in Node.js backend engineering, concurrency handling and reliable API design.
+I build backend systems and enterprise integrations that move data reliably between platforms.
+
+Currently working with **SAP Integration Suite (CPI)** while deepening my expertise in **Node.js backend engineering**, distributed workflows, concurrency control, and resilient API design.
 
 ---
 
-### ⚡What I'm Building
+## ⚡ What I'm Building
 
-- Backend services using Node.js & Express with layered architecture  
-- REST APIs with validation, centralised error handling, and idempotent request processing
-- Flash-sale reservation and order systems with concurrency-safe inventory handling
-- Redis-based caching and request deduplication strategies
-- Enterprise integrations (SAP CPI) with XML, JSON and EDI transformations  
-- Secure API integrations using OAuth2, Basic Auth, key-based and certificate based authentication  
+* Backend services with **Node.js, Express, MongoDB, and Redis**
+* Secure and reliable **REST APIs** with authentication, authorization, validation, and idempotent processing
+* Queue-driven and asynchronous workflows using **BullMQ** and Redis
+* Concurrency-safe order and inventory systems for high-demand scenarios
+* Automated testing with **Jest, Supertest, and k6**
+* Production-ready systems with structured logging, caching, performance optimization, and observability practices
+* Enterprise integration engineering with **SAP Integration Suite (CPI)** across B2B/EDI, TPM, integration orchestration, message transformation, API management, and secure connectivity using AS2, SFTP, SMB, SOAP, and REST
 
 ---
 
@@ -41,6 +43,13 @@ Currently working with **SAP integrations** while deepening my expertise in Node
 ![MongoDB Atlas](https://img.shields.io/badge/mongodb_atlas-%2300ED64.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
+**Testing & Performance**
+
+![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![Supertest](https://img.shields.io/badge/supertest-%23000000.svg?style=for-the-badge)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![K6](https://img.shields.io/badge/k6-%237E52FF.svg?style=for-the-badge&logo=k6&logoColor=white)
+
 **Cloud & Integrations**
 
 ![SAP](https://img.shields.io/badge/SAP_CPI-%230FAAFF.svg?style=for-the-badge&logo=sap&logoColor=white)
@@ -52,7 +61,6 @@ Currently working with **SAP integrations** while deepening my expertise in Node
 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
