@@ -45,6 +45,7 @@ Currently bridging the gap between legacy systems and modern cloud ecosystems us
 **Testing, Simulation & Observability**
 
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![SoapUI](https://img.shields.io/badge/SoapUI-%236B8E23.svg?style=for-the-badge&logo=soapui&logoColor=white)
 ![K6](https://img.shields.io/badge/k6-%237E52FF.svg?style=for-the-badge&logo=k6&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 
